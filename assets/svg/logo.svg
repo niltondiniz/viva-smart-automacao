@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <style>
+      .stroke { stroke: #478158; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .fill   { fill: #478158; }
+    </style>
+  </defs>
+
+  <!-- Casa -->
+  <path class="stroke" stroke-width="14"
+        d="M32 120 L128 40 L224 120 V224 H32 Z"/>
+
+  <!-- Sinal Wi-Fi -->
+  <circle class="fill" cx="128" cy="176" r="10"/>
+  <path class="stroke" stroke-width="14" d="M108 160 A20 20 0 0 1 148 160"/>
+  <path class="stroke" stroke-width="14" d="M92 144 A36 36 0 0 1 164 144"/>
+</svg>
