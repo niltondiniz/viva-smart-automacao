@@ -10,7 +10,7 @@ export const SITE: SiteConfig = {
   name: "Viva Smart Automação",
   instagram: "vivasmartautomacao",
   phoneWhats: "5524981411827", // troque para seu número com DDI/DDD
-  email: "contato@vivasmart.com.br",
+  email: "contato@vivasmartautomacao.com.br",
   cityRegion: "",
 }
 
